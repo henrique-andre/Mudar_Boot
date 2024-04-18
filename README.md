@@ -18,9 +18,6 @@ Na área de trabalho de todos os computadores do laboratório, você encontrará
 Clique duas vezes no ícone "Mudar Boot" para iniciar o script.
 Selecione o sistema desejado e siga as instruções na interface do script.
 
-# Requisitos
-`Acesso ao ambiente do laborátorio.`
-
 # Contribuição
 Se você deseja contribuir para este projeto, sinta-se à vontade para criar um fork e enviar pull requests.
 
